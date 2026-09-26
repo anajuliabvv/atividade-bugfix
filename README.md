@@ -11,3 +11,4 @@ Atividade professor Fabio
 
 ## Correção do Bug: Produtos
 - Identificação do problema nas informações dos produtos.
+- Correção das informações dos produtos.
