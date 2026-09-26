@@ -7,3 +7,4 @@ Atividade professor Fabio
 
 ## Correção do Bug: Cadastro
 - Identificação do problema nos campos de cadastro.
+- Correção dos campos obrigatórios do cadastro.
